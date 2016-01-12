@@ -1,0 +1,77 @@
+Checking possible error in people.
+INDI: I99
+Name: Lonely /Man/
+Given: Man
+Surname: Man
+Marryname: Man
+Sex: M
+Birthday: 1 APR 2050
+Deat: true
+Deathday: 28 NOV 2010
+Possible error: Dead before born.
+Possible error: Does not have a family.
+Checking possible error in families.
+FAM: F1
+Husband: I1 Jianguo /Lv/
+Birthday: 14 MAR 1952
+Wife: I1 Jianguo /Lv/
+Birthday: 14 MAR 1952
+Wife: I4 Chunluan /Wang/
+Birthday: 3 JUN 1952
+Child: I5 Ying /Lv/
+Birthday: 12 APR 1981
+Marryday: 5 AUG 1978
+Current: true
+Possible error: Currently only one man and one woman can legally marry.
+FAM: F6
+Wife: I7 Mei /Liu/
+Birthday: 7 JUN 1984
+Child: I9 Jing /Zhang/
+Birthday: 2 NOV 2011
+Marryday: NODATE
+Current: true
+Possible error: Currently only one man and one woman can legally marry.
+Possible error: People record and family record incosistency.
+FAM: F9
+Husband: I12 Xin /Liu/
+Birthday: 7 MAR 1980
+Child: I18 Shitou /Liu/
+Birthday: 9 OCT 2003
+Marryday: NODATE
+Current: true
+Possible error: Currently only one man and one woman can legally marry.
+Possible error: People record and family record incosistency.
+FAM: F23
+Wife: I43 Ping /Zhang/
+Birthday: 26 NOV 1966
+Child: I54 Xiaoxiao /Zhang/
+Birthday: 2 NOV 1990
+Marryday: NODATE
+Current: true
+Possible error: Currently only one man and one woman can legally marry.
+Possible error: People record and family record incosistency.
+FAM: F27
+Husband: I63 Mao /Qi/
+Birthday: 27 NOV 1970
+Husband: I57 Zhouzi /Fang/
+Birthday: 29 SEP 1950
+Wife: I59 Yuan /Fang/
+Birthday: 7 SEP 1970
+Wife: I66 Xiuxiu /Fang/
+Birthday: 1 DEC 1958
+Child: I62 Xinghai /Qi/
+Birthday: 27 NOV 2000
+Marryday: 1 APR 1910
+Current: true
+Possible error: Child born before marriage or after divorce.
+Possible error: Currently only one man and one woman can legally marry.
+FAM: F26
+Husband: I60 Zheng /Fang/
+Birthday: 5 MAR 1979
+Child: I61 Hua /Fang/
+Birthday: 2 SEP 2005
+Marryday: NODATE
+Current: true
+Possible error: Currently only one man and one woman can legally marry.
+Possible error: People record and family record incosistency.
+Checking complete.

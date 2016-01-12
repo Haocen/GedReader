@@ -1,0 +1,69 @@
+Checking possible error in people.
+INDI: I1
+Name: 
+Given: 
+Surname: 
+Marryname: 
+Sex: 
+Birthday: NODATE
+Deat: false
+Possible error: Does not have a family.
+INDI: I6
+Name: 
+Given: 
+Surname: 
+Marryname: 
+Sex: 
+Birthday: NODATE
+Deat: false
+Possible error: Does not have a family.
+INDI: I10
+Name: 
+Given: 
+Surname: 
+Marryname: 
+Sex: 
+Birthday: NODATE
+Deat: false
+Possible error: Does not have a family.
+INDI: I11
+Name: 
+Given: 
+Surname: 
+Marryname: 
+Sex: 
+Birthday: NODATE
+Deat: false
+Possible error: Does not have a family.
+INDI: I13
+Name: 
+Given: 
+Surname: 
+Marryname: 
+Sex: 
+Birthday: NODATE
+Deat: false
+Possible error: Does not have a family.
+Checking possible error in families.
+FAM: F5
+Child: I22 Girl /Dummy/
+Birthday: 1 APR 1925
+Marryday: NODATE
+Current: true
+Possible error: Currently only one man and one woman can legally marry.
+Possible error: People record and family record incosistency.
+FAM: F1
+Husband: I1 
+Birthday: NODATE
+Wife: I6 
+Birthday: NODATE
+Child: I10 
+Birthday: NODATE
+Child: I11 
+Birthday: NODATE
+Child: I13 
+Birthday: NODATE
+Marryday: NODATE
+Current: true
+Possible error: People record and family record incosistency.
+Checking complete.

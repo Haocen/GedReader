@@ -1,0 +1,12 @@
+Checking possible error in people.
+No errors in people found.
+Checking possible error in families.
+FAM: F679
+Wife: I2771 Susy /Dearden/
+Birthday: Abt 1785
+Child: I2766 James /Dearden/
+Birthday: Abt 1812
+Marryday: NODATE
+Current: true
+Possible error: Currently only one man and one woman can legally marry.
+Checking complete.

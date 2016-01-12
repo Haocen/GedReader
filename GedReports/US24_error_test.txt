@@ -1,0 +1,13 @@
+Checking possible error in people.
+INDI: I20
+Name: Lady /Dummy/
+Given: Lady
+Surname: Dummy
+Marryname: Dummy
+Sex: F
+Birthday: 1 APR 1922
+Deat: false
+Possible error: Child of more than one family.
+Checking possible error in families.
+No errors in families found.
+Checking complete.

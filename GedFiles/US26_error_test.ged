@@ -1,0 +1,285 @@
+0 NOTE Made by Haocen Xu
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE Crawley Family
+1 DATE 27 JAN 2015
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME Jokies
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Robert /Crawley/
+2 GIVN Robert
+2 SURN Crawley
+2 _MARNM Crawley
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1866
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I2@ INDI
+1 NAME Earl /Grantham/
+2 GIVN Earl
+2 SURN Grantham
+2 _MARNM Crawley
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1840
+1 DEAT Y
+2 DATE 1 APR 1890
+1 FAMS @F2@
+0 @I3@ INDI
+1 NAME Violet /Countess/
+2 GIVN Violet
+2 SURN Countess
+2 _MARNM Crawley
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1842
+1 FAMS @F2@
+0 @I4@ INDI
+1 NAME Rosamund /Crawley/
+2 GIVN Rosamund
+2 SURN Crawley
+2 _MARNM Painswick
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1860
+1 FAMS @F3@
+1 FAMC @F2@
+0 @I5@ INDI
+1 NAME Marmaduke /Painswick/
+2 GIVN Marmaduke
+2 SURN Painswick
+2 _MARNM Painswick
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1850
+1 DEAT Y
+2 DATE 1 APR 1912
+1 FAMS @F3@
+0 @I6@ INDI
+1 NAME Cora /Levinson/
+2 GIVN Cora
+2 SURN Levinson
+2 _MARNM Crawley
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1868
+1 FAMS @F1@
+1 FAMC @F4@
+0 @I7@ INDI
+1 NAME Isidore /Levinson/
+2 GIVN Isidore
+2 SURN Levinson
+2 _MARNM Levinson
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1830
+1 DEAT Y
+2 DATE 1 APR 1880
+1 FAMS @F4@
+0 @I8@ INDI
+1 NAME Martha /Wealthy/
+2 GIVN Martha
+2 SURN Wealthy
+2 _MARNM Levinson
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1840
+1 FAMS @F4@
+0 @I9@ INDI
+1 NAME Harold /Levinson/
+2 GIVN Harold
+2 SURN Levinson
+2 _MARNM Levinson
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1865
+1 FAMC @F4@
+0 @I10@ INDI
+1 NAME Mary /Crawley/
+2 GIVN Mary
+2 SURN Crawley
+2 _MARNM Crawley
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1891
+1 FAMS @F5@
+1 FAMS @F6@
+1 FAMC @F1@
+0 @I11@ INDI
+1 NAME Edith /Crawley/
+2 GIVN Edith
+2 SURN Crawley
+2 _MARNM Crawley
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1892
+1 FAMS @F7@
+1 FAMC @F1@
+0 @I12@ INDI
+1 NAME Michael /Gregson/
+2 GIVN Michael
+2 SURN Gregson
+2 _MARNM Gregson
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1880
+1 DEAT Y
+2 DATE 1 APR 1923
+1 FAMS @F7@
+0 @I13@ INDI
+1 NAME Sybil /Crawley/
+2 GIVN Sybil
+2 SURN Crawley
+2 _MARNM Branson
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1895
+1 DEAT Y
+2 DATE 1 APR 1920
+1 FAMS @F8@
+1 FAMC @F1@
+0 @I14@ INDI
+1 NAME Matthew /Crawley/
+2 GIVN Matthew
+2 SURN Crawley
+2 _MARNM Crawley
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1885
+1 DEAT Y
+2 DATE 1 APR 1921
+1 FAMS @F6@
+0 @I15@ INDI
+1 NAME Tom /Branson/
+2 GIVN Tom
+2 SURN Branson
+2 _MARNM Branson
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1885
+1 FAMS @F8@
+0 @I16@ INDI
+1 NAME Sybil /Branson/
+2 GIVN Sybil
+2 SURN Branson
+2 _MARNM Branson
+1 SEX F
+1 BIRT
+2 DATE 30 SEP 1920
+1 FAMC @F8@
+0 @I17@ INDI
+1 NAME Marigold /Gregson/
+2 GIVN Marigold
+2 SURN Gregson
+2 _MARNM Gregson
+1 SEX F
+1 BIRT
+2 DATE 14 DEC 1922
+1 FAMC @F7@
+0 @I18@ INDI
+1 NAME George /Crawley/
+2 GIVN George
+2 SURN Crawley
+2 _MARNM Crawley
+1 SEX M
+1 BIRT
+2 DATE 9 SEP 1921
+1 FAMC @F6@
+0 @I19@ INDI
+1 NAME Man /Dummy/
+2 GIVN Man
+2 SURN Dummy
+2 _MARNM Dummy
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1900
+1 FAMS @F5@
+1 FAMS @F9@
+0 @I20@ INDI
+1 NAME Lady /Dummy/
+2 GIVN Lady
+2 SURN Dummy
+2 _MARNM Dummy
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1922
+1 FAMC @F9@
+0 @I21@ INDI
+1 NAME Woman /Dummy/
+2 GIVN Woman
+2 SURN Dummy
+2 _MARNM Dummy
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1890
+1 FAMS @F9@
+0 @I22@ INDI
+1 NAME Girl /Dummy/
+2 GIVN Girl
+2 SURN Dummy
+2 _MARNM Dummy
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1925
+1 FAMC @F5@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I6@
+1 CHIL @I10@
+1 CHIL @I11@
+1 CHIL @I13@
+1 _CURRENT Y
+0 @F2@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 CHIL @I4@
+1 _CURRENT Y
+0 @F3@ FAM
+1 HUSB @I5@
+1 WIFE @I4@
+1 _CURRENT Y
+0 @F4@ FAM
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I6@
+1 CHIL @I9@
+1 _CURRENT Y
+0 @F5@ FAM
+1 HUSB @I19@
+1 WIFE @I10@
+1 CHIL @I22@
+1 _CURRENT Y
+0 @F9@ FAM
+1 HUSB @I19@
+1 WIFE @I21@
+1 CHIL @I20@
+1 MARR
+2 DATE 1 APR 1910
+1 DIV
+2 DATE 1 APR 1925
+1 _CURRENT N
+0 @F6@ FAM
+1 HUSB @I14@
+1 WIFE @I10@
+1 CHIL @I18@
+1 _CURRENT N
+0 @F7@ FAM
+1 HUSB @I12@
+1 WIFE @I11@
+1 CHIL @I17@
+1 _CURRENT Y
+0 @F8@ FAM
+1 HUSB @I15@
+1 WIFE @I13@
+1 CHIL @I16@
+1 _CURRENT Y
+0 TRLR

@@ -1,0 +1,12 @@
+Checking possible error in people.
+No errors in people found.
+Checking possible error in families.
+FAM: F8
+Husband: I15 Tom /Branson/
+Birthday: 1 APR 1885
+Child: I16 Sybil /Branson/
+Birthday: 30 SEP 1920
+Marryday: NODATE
+Current: true
+Possible error: Currently only one man and one woman can legally marry.
+Checking complete.

@@ -1,0 +1,14 @@
+Checking possible error in people.
+INDI: I5
+Name: Marmaduke /Painswick/
+Given: Marmaduke
+Surname: Painswick
+Marryname: Painswick
+Sex: M
+Birthday: 1 APR 1850
+Deat: true
+Deathday: 1 APR 1800
+Possible error: Dead before born.
+Checking possible error in families.
+No errors in families found.
+Checking complete.

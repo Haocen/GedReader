@@ -1,0 +1,15 @@
+Checking possible error in people.
+No errors in people found.
+Checking possible error in families.
+FAM: F9
+Husband: I19 Man /Dummy/
+Birthday: 1 APR 1890
+Wife: I21 Woman /Dummy/
+Birthday: 1 APR 1890
+Child: I20 Lady /Dummy/
+Birthday: 1 APR 1900
+Marryday: 1 APR 1910
+Current: false
+Divorceday: 1 APR 1925
+Possible error: Child born before marriage or after divorce.
+Checking complete.

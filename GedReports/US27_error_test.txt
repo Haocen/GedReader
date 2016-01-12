@@ -1,0 +1,17 @@
+Checking possible error in people.
+No errors in people found.
+Checking possible error in families.
+FAM: F1
+Husband: I1 Robert /Crawley/
+Birthday: 1 APR 1866
+Wife: I6 Cora /Levinson/
+Birthday: 1 APR 1868
+Child: I11 Edith /Crawley/
+Birthday: 1 APR 1892
+Child: I13 Sybil /Crawley/
+Birthday: 1 APR 1895
+Deathday: 1 APR 1920
+Marryday: NODATE
+Current: true
+Possible error: People record and family record incosistency.
+Checking complete.

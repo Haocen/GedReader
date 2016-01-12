@@ -1,0 +1,14 @@
+Checking possible error in people.
+INDI: I14
+Name: Matthew /Crawley/
+Given: Matthew
+Surname: Crawley
+Marryname: Crawley
+Sex: M
+Birthday: 1 APR 1885
+Deat: true
+Deathday: 1 APR 1921
+Possible error: Does not have a family.
+Checking possible error in families.
+No errors in families found.
+Checking complete.
